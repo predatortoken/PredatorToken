@@ -1,16 +1,17 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://predatortoken.org/wp-content/uploads/2021/08/pred-logo-125.png" width="64" />
+  <br/>
+  <h3 align="center">Predator Token</h3>
+</p>
+<p align="center">
+  <span align="center">🩸Smart Contract🩸</span>
+  <br/>
+  <a href ="https://predatortoken.org/" target="_blank">https://predatortoken.org/</a>
+</p>
 
-<!--
-**predatortoken/PredatorToken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Not a Doge, Not a Shiba, this is Predator</p>
+<p>Predator is a deflationary token with an inherent burn</p>
